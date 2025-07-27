@@ -1,0 +1,4 @@
+matplotlib>=3.0
+numpy>=1.0
+scikit-learn>=1.0
+gradio>=3.0
